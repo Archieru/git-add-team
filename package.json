@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Archieru/git-add-team#readme",
   "dependencies": {
-    "xmlhttprequest": "^1.8.0"
+    "node-fetch": "^2.6.0"
   }
 }
