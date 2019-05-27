@@ -1,0 +1,22 @@
+{
+  "name": "git-add-team",
+  "version": "1.0.0",
+  "description": "Add a team to all repositories in a given organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archieru/git-add-team.git"
+  },
+  "author": "Archieru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archieru/git-add-team/issues"
+  },
+  "homepage": "https://github.com/Archieru/git-add-team#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
